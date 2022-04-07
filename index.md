@@ -1,4 +1,3 @@
-# CSE 15L - Software Tools & Techniques Lab
-## Théo Jouvin's Blog
+#Software Tools & Techniques Lab - Théo Jouvin's Blog
 
-###Lab Report for Week 1 & 2
+##Lab Report - Weeks 1 & 2
