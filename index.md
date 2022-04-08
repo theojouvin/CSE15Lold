@@ -1,30 +1,5 @@
-# Software Tools & Techniques Lab - Théo Jouvin's Blog
+# Software Tools & Techniques Lab - Théo's Blog
 
-## Lab Report - Weeks 1 & 2
-
-Regular Text
-
-**Bold Text**
-
-*Italic Text*
-
-> Block Quote
-
-* Item 1
-* Item 2
-* Item 3
-
-1. Item 1
-2. Item 2
-3. Item 3
+## [Lab Report - Weeks 1 & 2](lab-report-1-week-2.md)
 
 
-```
-Code Block
-```
-
----
-   
-[Google](https://google.com)
-
-![Test Image](ss.png)
